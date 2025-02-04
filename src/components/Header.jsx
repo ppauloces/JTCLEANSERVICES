@@ -4,7 +4,7 @@ const Header = () => {
             <div className="max-w-6xl mx-auto flex justify-between items-center">
                 {/* Logo da empresa */}
                 <a href="#">
-                    <img src="/src/assets/logo.png" alt="J&T CleanServices Logo" className="h-12 md:h-16 object-contain" />
+                    <img src="/logo.png" alt="J&T CleanServices Logo" className="h-12 md:h-16 object-contain" />
                 </a>
 
                 {/* Menu de Navegação 

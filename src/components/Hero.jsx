@@ -2,7 +2,7 @@ const Hero = () => {
     return (
         <section
             className="h-screen flex flex-col justify-center items-center text-white text-center relative bg-cover bg-center bg-no-repeat pt-20"
-            style={{ backgroundImage: "url('/src/assets/hero2.webp')" }}
+            style={{ backgroundImage: "url('/hero2.webp')" }}
         >
             {/* Sobreposição sutil para melhorar a legibilidade sem cobrir o header */}
             <div className="absolute inset-0 bg-black/30 backdrop-blur-sm"></div>

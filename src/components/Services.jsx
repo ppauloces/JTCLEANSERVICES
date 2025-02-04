@@ -1,7 +1,7 @@
 const services = [
     {
       title: "Limpeza Doméstica",
-      image: "/src/assets/servico1.jpg",
+      image: "/servico1.jpg",
       description: [
         "Limpeza geral e detalhada de residências.",
         "Serviços regulares ou pontuais, conforme sua preferência.",
@@ -10,7 +10,7 @@ const services = [
     },
     {
       title: "Limpeza de Condomínios",
-      image: "/src/assets/service2.jpg",
+      image: "/service2.jpg",
       description: [
         "Manutenção de áreas comuns (hall de entrada, elevadores, escadas, etc.).",
         "Limpeza de piscinas, jardins e garagens.",
@@ -19,7 +19,7 @@ const services = [
     },
     {
       title: "Limpeza de Ginásios e Academias",
-      image: "/src/assets/servico3.jpg",
+      image: "/servico3.jpg",
       description: [
         "Higienização de equipamentos, pisos e vestiários.",
         "Controle de odores e desinfecção de superfícies.",
@@ -28,7 +28,7 @@ const services = [
     },
     {
       title: "Limpeza de Prédios Comerciais",
-      image: "/src/assets/servico4.jpg",
+      image: "/servico4.jpg",
       description: [
         "Limpeza de escritórios, salas de reunião e áreas comuns.",
         "Serviços diários, semanais ou mensais, conforme a necessidade.",
